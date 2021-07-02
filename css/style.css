@@ -172,7 +172,7 @@ header #phoneNavbar .active .nav-link::after {
 }
 
 .phoneCarousel {
-  background-image: url(../../images/product-header-bg.jpg);
+  background-image: url(../images/product-header-bg.jpg);
   background-size: cover;
   background-position: center bottom;
   padding: 225px 0;
