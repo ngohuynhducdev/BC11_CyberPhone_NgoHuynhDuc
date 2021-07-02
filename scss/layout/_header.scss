@@ -1,35 +1,3 @@
-// header {
-//   background: $color-white-1;
-//   padding: 20px 0;
-//   box-shadow: 0 2px 4px $color-white-2;
-//   nav {
-//     > a {
-//       color: $color-blue-4 !important;
-//       font-weight: $fw-3;
-//       font-size: $fs-8;
-//     }
-
-//     ul li a {
-//       color: $color-blue-1 !important;
-//       font-weight: $fw-2;
-//       margin: 0 20px;
-//       padding: 4px 0 !important;
-//       font-size: $fs-2;
-//       display: inline-block;
-//       border-bottom: 2px solid transparent;
-//       width: 0%;
-//       transition: all 0.2s;
-//       &:hover {
-//         color: $color-blue-4 !important;
-//         border-bottom: 2px solid $color-blue-4;
-//         display: inline-block;
-
-//         width: 100%;
-//       }
-//     }
-//   }
-// }
-
 header {
   background-color: $color-white-1;
   box-shadow: 0 2px 4px $color-white-2;

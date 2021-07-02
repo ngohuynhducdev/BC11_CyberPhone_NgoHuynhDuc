@@ -36,7 +36,7 @@ body {
   font-weight: 600;
   color: #2a73dd;
   box-shadow: 0 3px 6px #c9d8f4;
-  transition: 0.5s;
+  transition: .5s;
 }
 
 .btnPhone-white:hover {
@@ -54,7 +54,7 @@ body {
   font-size: 14px;
   font-weight: 600;
   color: #fff;
-  transition: 0.5s;
+  transition: .5s;
 }
 
 .btnPhone-blue:hover {
@@ -71,7 +71,7 @@ body {
   font-weight: 600;
   color: #2a73dd;
   box-shadow: 2px 2px 4px #e2ebfc, -2px -2px 4px #fff;
-  transition: 0.5s;
+  transition: .5s;
 }
 
 .btnPhone-shadow:hover {
@@ -172,7 +172,7 @@ header #phoneNavbar .active .nav-link::after {
 }
 
 .phoneCarousel {
-  background-image: url(../img/product-header-bg.jpg);
+  background-image: url(../../images/product-header-bg.jpg);
   background-size: cover;
   background-position: center bottom;
   padding: 225px 0;
